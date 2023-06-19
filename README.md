@@ -2,16 +2,16 @@
 
 ## case "list"
 
-![GitHub Pages settings](./terminal-screens/case-list.png)
+![Actions](./terminal-screens/case-list.png)
 
 ## case "get"
 
-![GitHub Pages settings](./terminal-screens/case-get.png)
+![Actions](./terminal-screens/case-get.png)
 
 ## case "add"
 
-![GitHub Pages settings](./terminal-screens/case-add.png)
+![Actions](./terminal-screens/case-add.png)
 
 ## case "remove"
 
-![GitHub Pages settings](./terminal-screens/case-remove.png)
+![Actions](./terminal-screens/case-remove.png)
